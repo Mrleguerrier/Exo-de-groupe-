@@ -8,6 +8,8 @@ div{
 }
 p{ 
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
 }
 footer{
     position:absolute;
@@ -17,3 +19,10 @@ footer{
     height:50px;
     text-align: left ;
     }
+article{
+    text-align: center;
+    
+}
+article :hover {
+    color: black;
+}
