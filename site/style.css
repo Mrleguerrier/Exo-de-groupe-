@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    text-shadow: 4px 4px 5px black;
+    text-decoration-line: underline;
+}
+img{
+    box-shadow: 4px 4px 5px blue;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    display: block;
+    }
+    div{
+        border: solid black;
+    }
+footer{      
+        position:absolute;        
+        bottom:0;       
+        width:100%;        
+        padding-top:50px;       
+        height:50px;
+        }
