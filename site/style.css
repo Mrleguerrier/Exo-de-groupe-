@@ -1,22 +1,28 @@
 h1{
     text-align: center;
-    text-shadow: 4px 4px 5px black;
-    text-decoration-line: underline;
+    text-decoration: black underline;
 }
-img{
-    box-shadow: 4px 4px 5px blue;
-    margin-left: auto;
-    margin-right: auto;
-    width: 200px;
-    display: block;
+div{
+    text-align: center;
+    border: solid black ;
+}
+p{ 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+    text-align: left ;
     }
-    div{
-        border: solid black;
-    }
-footer{      
-        position:absolute;        
-        bottom:0;       
-        width:100%;        
-        padding-top:50px;       
-        height:50px;
-        }
+article{
+    text-align: center;
+    
+}
+article :hover {
+    color: black;
+}
