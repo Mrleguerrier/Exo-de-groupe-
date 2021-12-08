@@ -1,6 +1,28 @@
-body{
+h1{
     text-align: center;
+    text-decoration: black underline;
 }
 div{
-        border: solid black;
+    text-align: center;
+    border: solid black ;
+}
+p{ 
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding-top:50px;
+    height:50px;
+    text-align: left ;
+    }
+article{
+    text-align: center;
+    
+}
+article :hover {
+    color: black;
 }
